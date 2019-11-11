@@ -14,7 +14,7 @@ Aşağıda, kitaptaki kısımlara karşılık gelen uygulama senaryoları bulunm
 2. Sağlık Hizmetleri
 2. Enerji Yönetimi
 
-## Notlar
+## Notlar
 
 * Tavsiye Sistemleri içindeki `MoviLens` (100k) veri kümesi repoya dahil edilmeyecektir.
     GroupLens üzerinden [indirmek](http://files.grouplens.org/datasets/movielens/ml-100k.zip)
